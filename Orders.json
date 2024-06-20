@@ -1,0 +1,51 @@
+[
+    {
+      "_id": 1,
+      "customer_id": 1,
+      "segment": "Spotrebiteľ",
+      "ship_mode": "Druhý trieda",
+      "customer_number": 1001,
+      "details": [
+        {
+          "product_id": 1,
+          "quantity": 2,
+          "total": 100.0,
+          "discount": 10.0,
+          "profit": 20.0
+        }
+      ]
+    },
+    {
+      "_id": 2,
+      "customer_id": 2,
+      "segment": "Firemný",
+      "ship_mode": "Prvá trieda",
+      "customer_number": 1002,
+      "details": [
+        {
+          "product_id": 2,
+          "quantity": 1,
+          "total": 50.0,
+          "discount": 5.0,
+          "profit": 10.0
+        }
+      ]
+    },
+    {
+      "_id": 3,
+      "customer_id": 3,
+      "segment": "Domácnosť",
+      "ship_mode": "Štandard",
+      "customer_number": 1003,
+      "details": [
+        {
+          "product_id": 3,
+          "quantity": 3,
+          "total": 150.0,
+          "discount": 15.0,
+          "profit": 30.0
+        }
+      ]
+    }
+  ]
+  

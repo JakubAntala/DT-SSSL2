@@ -1,0 +1,81 @@
+[
+    {
+      "_id": 1,
+      "customer_number": 1001,
+      "first_name": "Jan",
+      "last_name": "Novak",
+      "age": 35,
+      "gender": "Muž",
+      "email": "jan.novak@example.com",
+      "phone": "123-456-789",
+      "fax": "987-654-321",
+      "reviews": [
+        {
+          "product_id": 1,
+          "rating": 4.5,
+          "review_text": "Výborný produkt.",
+          "review_date": "2023-05-01"
+        }
+      ],
+      "address": {
+        "street": "Hlavná 123",
+        "city": "Bratislava",
+        "postal_code": "81101",
+        "region": "Bratislavský",
+        "state": "Slovensko"
+      }
+    },
+    {
+      "_id": 2,
+      "customer_number": 1002,
+      "first_name": "Maria",
+      "last_name": "Kováčová",
+      "age": 28,
+      "gender": "Žena",
+      "email": "maria.kovacova@example.com",
+      "phone": "321-654-987",
+      "fax": "123-456-789",
+      "reviews": [
+        {
+          "product_id": 2,
+          "rating": 3.0,
+          "review_text": "Priemerná kvalita.",
+          "review_date": "2023-06-01"
+        }
+      ],
+      "address": {
+        "street": "Kvetná 45",
+        "city": "Košice",
+        "postal_code": "04001",
+        "region": "Košický",
+        "state": "Slovensko"
+      }
+    },
+    {
+      "_id": 3,
+      "customer_number": 1003,
+      "first_name": "Peter",
+      "last_name": "Horváth",
+      "age": 40,
+      "gender": "Muž",
+      "email": "peter.horvath@example.com",
+      "phone": "456-789-123",
+      "fax": "321-654-987",
+      "reviews": [
+        {
+          "product_id": 3,
+          "rating": 5.0,
+          "review_text": "Vynikajúce!",
+          "review_date": "2023-07-01"
+        }
+      ],
+      "address": {
+        "street": "Nová 12",
+        "city": "Žilina",
+        "postal_code": "01001",
+        "region": "Žilinský",
+        "state": "Slovensko"
+      }
+    }
+  ]
+  

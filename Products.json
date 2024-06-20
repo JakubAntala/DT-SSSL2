@@ -1,0 +1,93 @@
+[
+    {
+      "_id": 1,
+      "product_name": "Bezdrôtové slúchadlá",
+      "unit_price": 75.0,
+      "units_in_stock": 150,
+      "stocks": [
+        {
+          "quantity_available": 140,
+          "reorder_level": 20,
+          "reorder_quantity": 50,
+          "warehouse_location": "Sklad A"
+        }
+      ],
+      "suppliers": [
+        {
+          "company_name": "TechSound Ltd.",
+          "phone": "0905-123-456",
+          "email": "info@techsound.com",
+          "fax": "0905-654-321"
+        }
+      ],
+      "categories": [
+        {
+          "category_name": "Elektronika",
+          "category_description": "Všetky druhy elektronických zariadení",
+          "subcategory_name": "Zvukové zariadenia",
+          "subcategory_description": "Slúchadlá, reproduktory a iné zvukové zariadenia"
+        }
+      ]
+    },
+    {
+      "_id": 2,
+      "product_name": "Smartfón XYZ",
+      "unit_price": 499.0,
+      "units_in_stock": 75,
+      "stocks": [
+        {
+          "quantity_available": 70,
+          "reorder_level": 10,
+          "reorder_quantity": 25,
+          "warehouse_location": "Sklad B"
+        }
+      ],
+      "suppliers": [
+        {
+          "company_name": "MobileWorld Inc.",
+          "phone": "0903-789-012",
+          "email": "sales@mobileworld.com",
+          "fax": "0903-210-987"
+        }
+      ],
+      "categories": [
+        {
+          "category_name": "Mobilné zariadenia",
+          "category_description": "Mobilné telefóny a príslušenstvo",
+          "subcategory_name": "Smartfóny",
+          "subcategory_description": "Inteligentné telefóny rôznych značiek"
+        }
+      ]
+    },
+    {
+      "_id": 3,
+      "product_name": "Notebook UltraBook",
+      "unit_price": 1200.0,
+      "units_in_stock": 30,
+      "stocks": [
+        {
+          "quantity_available": 28,
+          "reorder_level": 5,
+          "reorder_quantity": 15,
+          "warehouse_location": "Sklad C"
+        }
+      ],
+      "suppliers": [
+        {
+          "company_name": "ComputePro Solutions",
+          "phone": "0902-456-789",
+          "email": "support@computepro.com",
+          "fax": "0902-987-654"
+        }
+      ],
+      "categories": [
+        {
+          "category_name": "Počítače",
+          "category_description": "Osobné počítače, notebooky a príslušenstvo",
+          "subcategory_name": "Notebooky",
+          "subcategory_description": "Rôzne typy a modely notebookov"
+        }
+      ]
+    }
+  ]
+  
